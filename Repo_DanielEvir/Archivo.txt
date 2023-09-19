@@ -1,0 +1,4 @@
+Tue Sep 19 10:36:12 CST 2023, (5.0 ,  16.0i), suma, (10.0 + 32.0i)
+Tue Sep 19 10:36:12 CST 2023, (5.0 ,  16.0i)*(5.0 , multiplicacion, (-231.0 + 160.0i)
+Tue Sep 19 10:38:39 CST 2023, (2.0, 16.0i), suma, (4.0 + 32.0i)
+Tue Sep 19 10:38:39 CST 2023, (18.0, 16.0i)*(18.0, multiplicacion, (68.0 + 576.0i)
